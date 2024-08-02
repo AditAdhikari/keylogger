@@ -1,1 +1,2 @@
 this file will contain the key press result 
+this is not the orginal file keylogger.txt is inside keylogger folder  
